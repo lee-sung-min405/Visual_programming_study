@@ -1,0 +1,42 @@
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe.config
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.pdb
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.SuggestedBindingRedirects.cache
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Form1.resources
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Properties.Resources.resources
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.GenerateResource.cache
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.CoreCompileInputs.cache
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.exe
+D:\Develop\C#\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.pdb
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe.config
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.pdb
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.AssemblyReference.cache
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Form1.resources
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Properties.Resources.resources
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.GenerateResource.cache
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.exe
+C:\Users\asw411\source\repos\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.pdb
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe.config
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.pdb
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.AssemblyReference.cache
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Form1.resources
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Properties.Resources.resources
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.GenerateResource.cache
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.exe
+C:\Users\이성민\Desktop\22년도 대학 자료\1학기\비쥬얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.pdb
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe.config
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.exe
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\bin\Debug\MyPhoneBook.pdb
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csprojAssemblyReference.cache
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Form1.resources
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.Properties.Resources.resources
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.GenerateResource.cache
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.exe
+C:\Users\이성민\Desktop\백업이 필요한 파일\비주얼프로그래밍\과제\프로젝트\ZIP_2\MyPhoneBook\MyPhoneBook\obj\Debug\MyPhoneBook.pdb
